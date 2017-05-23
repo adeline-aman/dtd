@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE AMA "exo.dtd">
+    <!-- Anabelle Kacou -->
+    <personne sexe="masculin">
+        <nom>Kacou</nom>
+        <prenom>anabelle</prenom>
+        <adresse>
+            <numero>1</numero>
+            <voie type="autoroute">latrille</voie>
+            <codePostal>BP 023</codePostal>
+            <ville>Abidjan</ville>
+            <pays>Cote d'Ivoire</pays>
+        </adresse>
+        <telephones>
+            <telephone type="fixe">22 55 45 45</telephone>
+            <telephone type="portable">08 12 20 45</telephone>
+        </telephones>
+        <emails>
+            <email type="personnel">anakacou@gmail.com</email>
+            <email type="professionnel">anaballe@societe.com</email>
+        </emails>
+    </personne>
+    
+    <!-- Marie-laure yao -->
+    <personne sexe="feminin">
+        <nom>Yao</nom>
+        <prenom>Marie-laure</prenom>
+        <adresse>
+            <numero>2</numero>
+            <voie type="rue">rue agnikro</voie>
+            <codePostal>BP 146</codePostal>
+            <ville>Abengourou</ville>
+            <pays>Cote d'Ivoire</pays>
+        </adresse>
+        <telephones>
+            <telephone type="professionnel">35 67 87 90</telephone>
+        </telephones>
+        <emails>
+            <email type="professionnel">contact@Yao.fr</email>
+        </emails>
+    </personne>
+</repertoire>
